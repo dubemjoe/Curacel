@@ -1,0 +1,31 @@
+form{
+	width: 350px;
+	height: 300px;
+	margin: auto;
+	color: white;
+}
+.form-circle{
+	width: 500px;
+}
+.little-man{
+	width: 500px;
+	height: 50px;
+	text-align: center;
+	border-color: #4daddd;
+}
+.body{
+	background-color: #f4f4f4;
+}
+h5{
+	color: #4daddd;
+	font-family: Helvetica;
+}
+h6{
+	color: gray;
+	font-family: Helvetica;
+}
+.foot{
+	text-align: center;
+	border-left-color: red;
+	width: 200px;
+}
