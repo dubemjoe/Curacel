@@ -1,0 +1,46 @@
+.head {
+	width: 100%;
+	height: 100px;
+	background-color: #000;
+}
+
+.image {
+	width: 6%;
+	height: 6%;
+	float: right;
+	padding: 10px 10px;
+	
+}
+
+.menu {
+	float: right;
+}
+
+#images{
+height: 500px;
+width: 100%;
+}
+
+#formBody{
+	margin: 0px 60px 0px 60px;
+	color: blue;
+
+}
+
+.h-ref{
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	display: inline;
+	color: white;
+	padding: 15px;
+}
+
+body{
+	background-color: #FEF0DB;
+}
